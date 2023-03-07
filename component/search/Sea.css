@@ -1,0 +1,9 @@
+.set{
+    display: inline-block;
+    padding: 20px;
+
+}
+.set, img{
+    width: 300px;
+    height: 250px;
+}
